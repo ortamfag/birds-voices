@@ -4,20 +4,17 @@
     text-align: center;   
 }
 
-
 #first_name, #second_name, #third_name {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20pt;
 }
-
-
 
 .audio_first, .audio_second, .audio_third {
     display: block;
 }
 
 .button1, .button2, .button3 {
-    padding:10px;
+    padding: 10px;
 }
 
 .nightingale, .woodpecker, .starling {
@@ -26,11 +23,7 @@
     align-items: center;
 }
 
-.wiki_starling, .wiki_nightingale, .wiki_woodpecker{
-    
-}
-
-.picture_nightingale {
-    
-
+.picture_nightingale, .picture_starling, .picture_woodpecker {
+    position: relative;
+    right: 60px
 }
