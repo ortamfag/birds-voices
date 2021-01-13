@@ -18,12 +18,8 @@
 }
 
 .nightingale, .woodpecker, .starling {
-    justify-content: space-around;
+    justify-content: space-between;
     display:flex;
     align-items: center;
 }
 
-.picture_nightingale, .picture_starling, .picture_woodpecker {
-    position: relative;
-    right: 60px
-}
